@@ -1,0 +1,6 @@
+<script>start("/Users/jemimababbage/Desktop/untitled folder/artifacts/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("label_encoder.pkl","label_encoder.pkl",0,677,"677 B",1746523575,"5/6/25, 11:26:15 AM");</script>
+<script>addRow("region_encoder.pkl","region_encoder.pkl",0,578,"578 B",1746523577,"5/6/25, 11:26:17 AM");</script>
+<script>addRow("svm_career_model.pkl","svm_career_model.pkl",0,174565,"170 kB",1746523388,"5/6/25, 11:23:08 AM");</script>
+<script>addRow("xgb_career_model.pkl","xgb_career_model.pkl",0,4319550,"4.1 MB",1746523402,"5/6/25, 11:23:22 AM");</script>
