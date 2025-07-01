@@ -22,7 +22,7 @@ env/
 *.tmp
 
 # Model artifacts (only ignore if not versioning models)
-artifacts/*.pkl
+#artifacts/*.pkl
 
 # Environment variables and secrets
 .env
